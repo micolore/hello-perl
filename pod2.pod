@@ -1,0 +1,9 @@
+#!/usr/bin/perl
+
+=begin html
+=encoding utf-8
+
+=head1 perl教程
+
+=cut
+
